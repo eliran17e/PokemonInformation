@@ -1,5 +1,7 @@
 # PokemonInformation
 A site that feature a pokemon information
+
+
 The project has 3 pages. 
 index.html has:
 Search Pokémon by ID, name, type, or ability. Users can:
